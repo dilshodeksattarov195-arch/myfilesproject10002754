@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterearse",
+        "uuid": 21627162,
+        "checksum": "b0qwlr"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
